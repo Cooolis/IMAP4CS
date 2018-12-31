@@ -1,0 +1,10 @@
+Debug/
+IMAP4CS/Debug/
+*.sdf
+*.v11.suo
+*.opensdf
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.tlog
